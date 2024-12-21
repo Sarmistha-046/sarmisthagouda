@@ -1,0 +1,38 @@
+								PROJECT
+For developing a project there are 10 steps 
+1.Divide the project scope
+->	Clearly outline the purpose and goals of the project , determine what you want to achieve and identify your target audience 
+A)Scope and goal of today's project---->to complete the entire concepts of html
+									 to design our professional portfolio
+									to design a responsive project using html to make our resume strong 
+									efficiency for clearing technical interview round
+									map out the structure of a project, detailing the web pages you need and how they 											interconnect
+			
+																		
+2.Plan your project structure : map out the structure of a project, detailing the web pages you need and how they 	interconnect
+		structing our website 
+			section1- Home
+			section2-About
+			section3-Education
+			section4-Skills
+			section5-Project
+			section6-Achievments
+			section7-Contact me
+3.Design the layout : 
+4.Write the html code
+5.Add sub-styling 
+6.Make your project responsive : 
+7.Optimize for accessibility
+8.Test your project
+9.Deploy your project 
+10.Collect your feedback
+
+
+
+
+
+
+
+
+
+
